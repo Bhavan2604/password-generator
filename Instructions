@@ -1,0 +1,9 @@
+To get passwords: 
+1. Get basic info about target.
+2. Use Passwriter to get some passwords 
+3. Use PasswordListGenerator 
+4. Use Cupp
+5. Use BEWGor (fixed but runs on python 2)
+6. Use Mentalist (issues)
+7. Use bopscrk (issues)
+8. Use Joiner in /home/kali/Scripts/ListJoiner/joiner.py
